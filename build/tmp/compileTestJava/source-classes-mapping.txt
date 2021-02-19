@@ -1,0 +1,14 @@
+calculadoraTest/SumaTest.java
+ calculadoraTest.SumaTest
+calculadoraTest/DivTest.java
+ calculadoraTest.DivTest
+basicJunit/BasicJunit1.java
+ basicJunit.BasicJunit1
+calculadoraTest/MultiTest.java
+ calculadoraTest.MultiTest
+calculadoraTest/RestaTest.java
+ calculadoraTest.RestaTest
+calculadoraTestSuite/TestSuiteCalculadora.java
+ calculadoraTestSuite.TestSuiteCalculadora
+ejercicio2/Ejercicio2Test.java
+ ejercicio2.Ejercicio2Test

@@ -1,14 +1,22 @@
+calculadoraMockTest/CalculadoraMockTest.java
+ calculadoraMockTest.CalculadoraMockTest
+calculadoraParameters/TestSumaParameter.java
+ calculadoraParameters.TestSumaParameter
 calculadoraTest/SumaTest.java
  calculadoraTest.SumaTest
 calculadoraTest/DivTest.java
  calculadoraTest.DivTest
 basicJunit/BasicJunit1.java
  basicJunit.BasicJunit1
+calculadoraTestSuite/TestSuiteCalculadora.java
+ calculadoraTestSuite.TestSuiteCalculadora
+calcularNotasTest/CalcularNotasParameters.java
+ calcularNotasTest.CalcularNotasParameters
 calculadoraTest/MultiTest.java
  calculadoraTest.MultiTest
 calculadoraTest/RestaTest.java
  calculadoraTest.RestaTest
-calculadoraTestSuite/TestSuiteCalculadora.java
- calculadoraTestSuite.TestSuiteCalculadora
+calculadoraPowerMockito/CalculadoraPowerMockTest.java
+ calculadoraPowerMockito.CalculadoraPowerMockTest
 ejercicio2/Ejercicio2Test.java
  ejercicio2.Ejercicio2Test

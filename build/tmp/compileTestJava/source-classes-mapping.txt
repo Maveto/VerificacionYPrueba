@@ -1,5 +1,7 @@
 calculadoraMockTest/CalculadoraMockTest.java
  calculadoraMockTest.CalculadoraMockTest
+ejercicio2/Ejercicio2Test.java
+ ejercicio2.Ejercicio2Test
 calculadoraParameters/TestSumaParameter.java
  calculadoraParameters.TestSumaParameter
 calculadoraTest/SumaTest.java
@@ -18,5 +20,5 @@ calculadoraTest/RestaTest.java
  calculadoraTest.RestaTest
 calculadoraPowerMockito/CalculadoraPowerMockTest.java
  calculadoraPowerMockito.CalculadoraPowerMockTest
-ejercicio2/Ejercicio2Test.java
- ejercicio2.Ejercicio2Test
+ejercicio4Test/CajeroTest.java
+ ejercicio4Test.CajeroTest

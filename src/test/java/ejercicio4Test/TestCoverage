@@ -1,0 +1,24 @@
+TEST COVERAGE
+----------------
+
+inputs:
+*ci -------------> identificador
+amount ---------> cantidad
+
+    |---------------|-------------|
+-1  0  1                        Saldo
+
+Test
+
+bdUtil        clenteDB         amount          output
+----------    ------------    ---------        --------------------------------------------------------------
+correcto      conected           -1             Amount No Valido
+correcto      conected            0             Usted esta sacando la cantidad de 0 y tiene en saldo NN
+correcto      conected            1             Usted esta sacando la cantidad de 1 y tiene en saldo NN
+correcto      conected         saldo-1          Usted esta sacando la cantidad de saldo-1 y tiene en saldo 1
+correcto      conected         saldo            Usted esta sacando la cantidad de saldo y tiene en saldo 0
+correcto      conected         saldo+1          Usted no tiene suficiente saldo
+
+incorrecto    not conected     saldo+1          Actualizacion Incorrecta, Intente Nuevamente
+
+correcto      not conected     saldo+1          Conexion a BD no fue satisfactoria

@@ -2,10 +2,16 @@ calculadoraMock/BasicCalculadoraService.java
  calculadoraMock.BasicCalculadoraService
 calculadotaPowerMockito/CalculadoraPowerMock.java
  calculadotaPowerMockito.CalculadoraPowerMock
+ejercicio4/BDUtil.java
+ ejercicio4.BDUtil
 calculadoraMock/CalculadoraMock.java
  calculadoraMock.CalculadoraMock
+ejercicio4/Cajero.java
+ ejercicio4.Cajero
 ejercicio1/CalcularNota.java
  ejercicio1.CalcularNota
+ejercicio4/ClientDB.java
+ ejercicio4.ClientDB
 calculadora/Calculadora.java
  calculadora.Calculadora
 ejercicio2/Ejercicio2.java
